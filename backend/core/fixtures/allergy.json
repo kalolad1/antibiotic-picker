@@ -1,0 +1,9 @@
+[
+    {
+      "model": "core.Allergy",
+      "pk": 1,
+      "fields": {
+        "name": "penicillin"
+      }
+    }
+]

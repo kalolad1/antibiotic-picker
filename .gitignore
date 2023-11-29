@@ -1,0 +1,20 @@
+# Environment
+frontend/.env.local
+
+### Django ###
+__pycache__/
+
+# Environments
+venv/
+
+
+# mypy
+.mypy_cache/
+
+
+# Next
+frontend/.next/
+.next/
+
+# MacOS
+.DS_Store

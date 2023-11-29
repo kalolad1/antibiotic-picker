@@ -1,0 +1,35 @@
+Sample H&P
+
+
+**Patient Information:**
+- Name: Darshan Kalola
+- Date of Admission: [Date]
+- Chief Complaint: Dysuria and lower abdominal pain
+
+
+**Past Medical History:**
+The patient has a history of [relevant medical conditions] and is currently taking [list of medications]. There is no history of urinary tract infections or kidney stones.
+
+**Social History:**
+The patient is a [occupation] and denies any tobacco, alcohol, or recreational drug use. The patient is in a monogamous relationship and practices safe sexual practices.
+
+**Family History:**
+There is no family history of urinary tract infections or other relevant conditions.
+
+**Review of Systems:**
+- Constitutional: No fever, chills, or night sweats.
+- Gastrointestinal: No nausea, vomiting, or diarrhea.
+- Genitourinary: Dysuria, frequency, urgency; no hematuria.
+
+**Physical Examination:**
+- Vital Signs: Temperature [temperature], heart rate [heart rate], blood pressure [blood pressure], respiratory rate [respiratory rate].
+- General: The patient appears well-nourished and in no acute distress.
+- Abdominal: Mild suprapubic tenderness, no rebound or guarding. No palpable masses.
+- Genitourinary: No costovertebral angle tenderness. No external genital lesions. Urethral meatus without discharge.
+
+**Laboratory and Diagnostic Findings:**
+- Urinalysis: Positive for leukocytes and nitrites.
+- Urine culture: Pending.
+
+**Assessment and Plan:**
+The patient presents with clinical symptoms suggestive of acute cystitis. Given the dysuria, frequency, and suprapubic tenderness, acute cystitis is likely. A urine sample has been collected for urinalysis and culture. Pending culture results, the patient will be started on empirical antibiotic therapy, such as [appropriate antibiotics], for a course of [duration]. The patient will be advised to increase fluid intake, maintain good hygiene, and follow up in [timeframe] for reassessment and review of urine culture results.

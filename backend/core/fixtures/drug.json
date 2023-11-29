@@ -1,0 +1,93 @@
+[
+    {
+        "model": "core.Drug",
+        "pk": 9,
+        "fields": {
+            "name": "amoxicillin"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 8,
+        "fields": {
+            "name": "azithromycin"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 7,
+        "fields": {
+            "name": "doxycycline"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 1,
+        "fields": {
+            "name": "cefotaxime"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 2,
+        "fields": {
+            "name": "ceftriaxone"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 6,
+        "fields": {
+            "name": "cefuroxime"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 11,
+        "fields": {
+            "name": "chloramphenicol"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 5,
+        "fields": {
+            "name": "ciprofloxacin"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 10,
+        "fields": {
+            "name": "clarithromycin"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 12,
+        "fields": {
+            "name": "gentamicin"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 13,
+        "fields": {
+            "name": "metronidazole"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 3,
+        "fields": {
+            "name": "piperacillin-tazobactam"
+        }
+    },
+    {
+        "model": "core.Drug",
+        "pk": 4,
+        "fields": {
+            "name": "trimethoprim"
+        }
+    }
+]

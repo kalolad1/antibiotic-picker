@@ -1,0 +1,59 @@
+Patient Information:
+
+Name: Jane Smith
+Age: 62
+Gender: Female
+Date of Admission: [Date]
+Chief Complaint: Abdominal pain and fever
+History of Present Illness:
+Mrs. Jane Smith is a 62-year-old female who presents to the hospital with a chief complaint of diffuse abdominal pain and a fever of 101.2°F (38.4°C). She has a history of cirrhosis and ascites, for which she has been managed as an outpatient. She reports the sudden onset of abdominal discomfort, which has worsened over the past 24 hours. She also notes a fever and decreased appetite.
+
+Past Medical History:
+The patient has a history of:
+
+Cirrhosis due to alcohol abuse, diagnosed five years ago.
+Ascites managed with diuretics.
+Hypertension controlled with lisinopril.
+Social History:
+Mrs. Smith is retired and lives alone. She admits to a history of heavy alcohol use in the past but reports abstinence for the last three years. She is a non-smoker. There is no history of intravenous drug use.
+
+Allergy:
+penicillin
+
+Family History:
+There is no significant family history of liver disease or other relevant conditions.
+
+Review of Systems:
+
+Constitutional: Fever, fatigue.
+Gastrointestinal: Abdominal pain, decreased appetite.
+Cardiovascular: No chest pain or palpitations.
+Respiratory: No shortness of breath or cough.
+Musculoskeletal: No joint pain or swelling.
+Physical Examination:
+
+Vital Signs: Temperature 101.2°F, heart rate 90 bpm, blood pressure 140/85 mm Hg, respiratory rate 18 breaths/min, oxygen saturation 98% on room air.
+General: The patient appears fatigued but not in acute distress.
+Abdominal: Mild diffuse abdominal tenderness, shifting dullness suggestive of ascites.
+Cardiovascular: Regular rate and rhythm, no murmurs.
+Respiratory: Clear breath sounds.
+Skin: No signs of jaundice or spider angiomata.
+Extremities: No edema.
+Laboratory and Diagnostic Findings:
+
+Complete Blood Count (CBC): Elevated white blood cell count (WBC).
+Liver Function Tests (LFTs): Elevated liver enzymes.
+Ascitic Fluid Analysis: Elevated WBC count with a predominance of neutrophils.
+Blood Cultures: Pending.
+Imaging:
+
+Abdominal ultrasound showing ascites.
+Assessment and Plan:
+Mrs. Smith presents with clinical symptoms and laboratory findings suggestive of Spontaneous Bacterial Peritonitis (SBP). The diagnosis is supported by the elevated ascitic fluid WBC count with a neutrophilic predominance.
+
+Treatment:
+
+Mrs. Smith will be started on empiric antibiotic therapy with intravenous ceftriaxone while awaiting blood culture results.
+She will also receive fluid and electrolyte management to address her ascites.
+Consultation with a gastroenterologist and an infectious disease specialist is recommended for further management and evaluation of her cirrhosis.
+Mrs. Smith will be closely monitored during her hospital stay, with repeat ascitic fluid analysis and appropriate adjustments to her treatment plan based on culture results.

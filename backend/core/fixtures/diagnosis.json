@@ -1,0 +1,16 @@
+[
+    {
+        "model": "core.Diagnosis",
+        "pk": 3,
+        "fields": {
+            "name": "pyelonephritis"
+        }
+    },
+    {
+        "model": "core.Diagnosis",
+        "pk": 4,
+        "fields": {
+            "name": "spontaneous bacterial peritonitis"
+        }
+    }
+]

@@ -1,0 +1,79 @@
+Patient Name: Jane Doe
+
+Age: 32
+
+Gender: Female
+
+Date of Admission: 2023-09-06
+
+Chief Complaint: Fever, flank pain, and urinary symptoms
+
+History of Present Illness:
+Jane Doe is a 32-year-old female who presents to the emergency department with a chief complaint of fever, right-sided flank pain, and urinary symptoms for the past 2 days. She reports a sudden onset of high-grade fever associated with chills, as well as right-sided flank pain that she describes as sharp and constant. She also complains of frequent urination, dysuria, and urgency. She denies any recent trauma to the abdomen or back.
+
+Past Medical History:
+
+Hypertension - diagnosed 5 years ago, well-controlled with amlodipine.
+No history of diabetes mellitus.
+No history of kidney stones or renal disease.
+No known drug allergies.
+Medications:
+
+Amlodipine 5 mg daily for hypertension.
+Social History:
+Jane Doe is a non-smoker and denies alcohol or recreational drug use. She is employed as a schoolteacher and lives with her husband and two children. She has no recent travel history.
+
+Family History:
+No significant family history of renal or urological disorders.
+
+Review of Systems:
+
+Constitutional: Reports fever and chills.
+Gastrointestinal: Denies nausea, vomiting, or diarrhea.
+Cardiovascular: Reports no chest pain or palpitations.
+Respiratory: Reports no cough or shortness of breath.
+Neurological: No complaints of headache or changes in mental status.
+Musculoskeletal: Right-sided flank pain.
+Physical Examination:
+
+General: Jane appears acutely ill and is in mild distress due to pain.
+Vital Signs: Temperature 101.2°F (38.4°C), Blood Pressure 130/80 mm Hg, Heart Rate 100 bpm, Respiratory Rate 18 bpm, Oxygen saturation 98% on room air.
+Abdomen: Right-sided costovertebral angle tenderness on palpation. No abdominal distention or guarding.
+Genitourinary: Mild suprapubic tenderness. No costovertebral angle mass or fullness.
+Skin: No rashes or lesions noted.
+Cardiovascular, Respiratory, and Neurological Examinations: Within normal limits.
+Laboratory Findings:
+
+Complete Blood Count (CBC):
+Hemoglobin: 12.0 g/dL
+White Blood Cell Count (WBC): 14,500/mm³ (elevated)
+Platelet Count: 250,000/mm³
+Urinalysis:
+Appearance: Cloudy
+Color: Yellow
+pH: 6.0
+Specific Gravity: 1.025
+Leukocyte Esterase: Positive
+Nitrite: Positive
+WBCs: >50 per high-power field
+Red Blood Cells: 5-10 per high-power field
+Bacteria: Many
+Blood Chemistry:
+Serum Creatinine: 0.9 mg/dL
+Blood Urea Nitrogen (BUN): 15 mg/dL
+Serum Electrolytes: Within normal limits
+Imaging:
+
+A renal ultrasound is ordered to evaluate the kidneys and urinary tract.
+Assessment:
+Based on the clinical presentation, physical examination, and laboratory findings, the preliminary diagnosis is pyelonephritis, a bacterial infection of the kidney.
+
+Plan:
+
+Intravenous Antibiotics: Initiate empiric antibiotic therapy with ciprofloxacin or ceftriaxone pending urine culture and sensitivity results.
+Pain Management: Administer analgesics for pain relief, such as acetaminophen or ibuprofen.
+Fluids: Ensure adequate hydration with intravenous fluids.
+Renal Ultrasound: Evaluate the kidneys and urinary tract to assess for any anatomical abnormalities or complications.
+Consultation: Consult a urologist for further evaluation and management if necessary.
+Follow-up: Arrange a follow-up appointment in 48-72 hours to re-evaluate the patient's progress and adjust the treatment plan as needed.
+This history and physical documentation serves as a preliminary assessment and plan for a patient with suspected pyelonephritis. Individual patient management may vary based on clinical judgment and specific patient characteristics.

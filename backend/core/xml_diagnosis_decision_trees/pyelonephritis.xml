@@ -1,0 +1,43 @@
+<decision_node decision_function_label="IF_PENICILLIN_ALLERGY">
+    <decision_node decision_key="NO" decision_function_label="IF_IN_SHOCK">
+        <regimen_node decision_key="NO">
+            <prescription>
+                <drug>cefuroxime</drug>
+                <dose>750mg</dose>
+                <frequency>Q8H</frequency>
+                <route>PARENTERAL</route>
+                <start_day>1</start_day>
+                <end_day>7</end_day>
+            </prescription>
+        </regimen_node>
+
+        <regimen_node decision_key="YES">
+            <prescription>
+                <drug>cefuroxime</drug>
+                <dose>750mg</dose>
+                <frequency>Q8H</frequency>
+                <route>PARENTERAL</route>
+                <start_day>1</start_day>
+                <end_day>7</end_day>
+            </prescription>
+            <prescription>
+                <drug>gentamicin</drug>
+                <dose>1g</dose>
+                <frequency>Q1D</frequency>
+                <route>PARENTERAL</route>
+                <start_day>1</start_day>
+                <end_day>7</end_day>
+            </prescription>
+        </regimen_node>
+    </decision_node>
+    <regimen_node decision_key="YES">
+        <prescription>
+            <drug>ciprofloxacin</drug>
+            <dose>500mg</dose>
+            <frequency>Q12H</frequency>
+            <route>ORAL</route>
+            <start_day>1</start_day>
+            <end_day>7</end_day>
+        </prescription>
+    </regimen_node>
+</decision_node>

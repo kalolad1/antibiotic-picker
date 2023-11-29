@@ -1,0 +1,69 @@
+Patient History and Physical Examination
+
+Patient Information:
+
+Name: John Doe
+Age: 45
+Gender: Male
+Date of Admission: September 6, 2023
+Medical Record Number: 123456789
+Chief Complaint:
+Mr. John Doe presents with a painful and swollen area on his right lower leg.
+
+History of Present Illness:
+Mr. Doe reports that he developed pain and redness in his right lower leg approximately three days ago. The symptoms have progressively worsened, and he is now experiencing swelling, warmth, and tenderness at the site. There is also a noticeable area of skin redness extending from his ankle to his mid-calf. He denies any trauma or injury to the area.
+
+Past Medical History:
+
+Hypertension, well-controlled with medication.
+No history of diabetes.
+No known allergies to medications or substances.
+No recent hospitalizations or surgeries.
+Medications:
+Mr. Doe takes lisinopril 10 mg daily for his hypertension.
+
+Social History:
+
+Occupation: Office manager.
+No history of tobacco use.
+Occasional alcohol consumption.
+Lives with his spouse and two children.
+No recent travel or exposure to unusual environments.
+Family History:
+
+Non-contributory.
+Review of Systems:
+
+Constitutional: No fever, chills, or night sweats.
+Cardiovascular: No chest pain or palpitations.
+Respiratory: No shortness of breath or cough.
+Gastrointestinal: No nausea, vomiting, or diarrhea.
+Neurological: No headaches, weakness, or changes in sensation.
+Musculoskeletal: No joint pain or muscle weakness.
+Dermatological: Cellulitis of the right lower leg as described.
+Physical Examination:
+
+General: Alert and oriented, in no acute distress.
+Vital Signs:
+Blood Pressure: 130/80 mm Hg
+Heart Rate: 80 bpm
+Respiratory Rate: 18 bpm
+Temperature: 98.6°F (37°C)
+Oxygen Saturation: 98% on room air
+Skin:
+Right lower leg: Erythematous, warm to touch, swollen, and tender. The affected area measures approximately 10 cm in diameter. There are no fluctuance or abscesses noted.
+No other skin lesions or rashes noted.
+Musculoskeletal: Full range of motion in the right leg, with tenderness and swelling localized to the affected area.
+Neurological: Normal strength and sensation in the right lower extremity.
+Lymphatic: Tender inguinal lymph nodes on the right side.
+Assessment and Plan:
+Based on the patient's clinical presentation and physical examination, the most likely diagnosis is cellulitis of the right lower leg. The plan is as follows:
+
+Obtain blood cultures.
+Start empiric antibiotic therapy with cephalexin 500 mg PO four times daily.
+Elevate the right leg to reduce swelling.
+Provide pain relief with acetaminophen or ibuprofen as needed.
+Educate the patient on the importance of completing the full course of antibiotics.
+Advise Mr. Doe to follow up in 48-72 hours for reassessment of the cellulitis.
+Recommend warm compresses and rest for the affected leg.
+Monitor for signs of improvement, such as reduced redness and swelling.

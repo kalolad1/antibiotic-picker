@@ -1,0 +1,63 @@
+**Patient Information:**
+- Name: Jane Doe
+- Age: 28 years
+- Gender: Female
+- Date of Admission: 2023-09-06
+
+**Chief Complaint:**
+The patient presents with complaints of dysuria (painful urination), increased urinary frequency, and a sense of urgency.
+
+**History of Present Illness:**
+Jane Doe is a 28-year-old female who comes to the clinic today with a chief complaint of dysuria, increased urinary frequency, and a sense of urgency that started three days ago. She reports that she has been experiencing a constant burning sensation during urination. She denies any hematuria, flank pain, fever, or chills. The patient has attempted over-the-counter remedies for relief but has not seen any improvement.
+
+**Past Medical History:**
+- No known chronic medical conditions.
+- No history of urinary tract infections (UTIs) in the past.
+- No allergies to medications or known drug reactions.
+
+**Social History:**
+- Occupation: Office manager.
+- Marital Status: Single.
+- Sexual Activity: Heterosexual, with one partner in the last six months, practicing no contraceptive methods.
+- Tobacco Use: Non-smoker.
+- Alcohol Use: Occasional social drinker.
+- Recreational Drug Use: Denies any drug use.
+- Exercise: Mild exercise routine, 3 times a week.
+
+**Family History:**
+- No family history of recurrent UTIs or kidney disorders.
+
+**Review of Systems:**
+- General: No fever, chills, or night sweats.
+- Cardiovascular: No chest pain or palpitations.
+- Respiratory: No cough or shortness of breath.
+- Gastrointestinal: No nausea, vomiting, or diarrhea.
+- Neurologic: No headaches or changes in mental status.
+- Musculoskeletal: No joint pain or muscle weakness.
+
+**Physical Examination:**
+- Vital Signs:
+  - Blood Pressure: 120/70 mmHg
+  - Heart Rate: 78 bpm
+  - Respiratory Rate: 16 bpm
+  - Temperature: 98.6°F (37°C)
+- General: The patient appears well-nourished and in no acute distress.
+- Abdomen: Soft, non-tender, and non-distended. No palpable masses or organomegaly.
+- Genitourinary: No costovertebral angle tenderness. On pelvic examination, there is no cervical motion tenderness, and the vaginal and cervical mucosa appear normal. There is no vaginal discharge.
+- Skin: No rashes or lesions noted.
+
+**Assessment and Plan:**
+Based on the history and physical examination findings, the patient is diagnosed with acute bacterial cystitis, likely caused by a urinary tract infection (UTI). The absence of fever or costovertebral angle tenderness suggests that the infection has not ascended to the upper urinary tract.
+
+**Plan:**
+1. **Urinalysis:** A urine sample will be collected for urinalysis and culture to confirm the diagnosis and identify the responsible pathogen.
+2. **Antibiotic Therapy:** Pending culture results, empiric antibiotic therapy with ciprofloxacin 500mg twice daily for 3 days will be initiated.
+3. **Fluids:** The patient will be advised to increase fluid intake to help flush out the infection.
+4. **Analgesics:** Over-the-counter pain relievers such as ibuprofen may be recommended for symptom relief.
+5. **Follow-Up:** The patient will be instructed to follow up in 3 days to assess response to treatment and adjust therapy based on culture results if necessary.
+
+**Education:**
+The patient will be educated about the importance of completing the full course of antibiotics, maintaining good hygiene, and practicing safe sexual intercourse to prevent future UTIs. She will also be advised to seek medical attention if symptoms worsen or persist.
+
+**Disposition:**
+The patient is advised to return to the clinic for follow-up in three days. If symptoms worsen or fail to improve, she should seek immediate medical attention.
