@@ -10,6 +10,7 @@ from . import test_constants
 class ViewsTestCase(TestCase):
     fixtures = test_constants.FIXTURES
 
+    @tag(test_constants.SLOW_TEST_FLAG)
     def test_regimen_search_succeeds(self):
         path_to_test_data = os.path.join(
             path_constants.PATH_TO_HANDP_SAMPLES_DIR, "handp_succeeds_1_sbp.txt"

@@ -41,13 +41,11 @@ def regimen_search(request: HttpRequest) -> HttpResponse:
         query_data = parse_handp.parse_handp(handp)
     except parse_handp.ParseHandpError as e:
         response_data = {"error_message": str(e)}
-        print(str(e))
         return HttpResponse(
             json.dumps(response_data),
             status=400,
         )
 
-    print(query_data)
     regimen = get_regimen_from_query_data(query_data)
     response_data = {"regimen": regimen.to_json(), "query_data": query_data.to_json()}
     return Response(response_data)
