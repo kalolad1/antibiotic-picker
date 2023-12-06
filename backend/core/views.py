@@ -30,7 +30,7 @@ def reference_document(request: HttpRequest, diagnosis: str) -> HttpResponse:
     return Response({"text": markdown_text})
 
 
-@api_view(["GET", "POST"])
+@api_view(["GET", "POST", "OPTIONS"])
 def regimen_search(request: HttpRequest) -> HttpResponse:
     # TODO - DELETE. Used only to get to API testing page.
     if request.method == "GET":
