@@ -1,4 +1,5 @@
 # Pillanti
+Link to repo: https://github.com/kalolad1/antibiotic-picker
 Walkthrough: https://youtu.be/U305lKHM4Yc 
 
 ## What is Pillanti?
