@@ -18,7 +18,7 @@ function HAndPTextBoxForm (): any {
   const router = useRouter()
   const dispatch = useDispatch<AppDispatch>()
 
-  function handleSubmit (event: any) {
+  function handleSubmit (event: any): any {
     event.preventDefault()
     const formData = new FormData(event.target)
     const handpText = formData.get('inputText') as string
@@ -41,7 +41,7 @@ function HAndPTextBoxForm (): any {
 function HandPTextBox (): any {
   const [inputTextValue, setInputTextValue] = useState('')
 
-  const handleInputChange = (event: any) => {
+  const handleInputChange = (event: any): any => {
     setInputTextValue(event.target.value)
   }
 

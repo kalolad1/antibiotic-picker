@@ -14,8 +14,8 @@ function ReferenceDocumentPage (): any {
 
   useEffect(() => {
     fetchReferenceDocument(diagnosis!)
-      .then(async (response) => {
-        return await response.json()
+      .then((response) => {
+        return response.json()
       })
       .then((data) => {
         setText(data.text)

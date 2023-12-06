@@ -30,5 +30,8 @@ module.exports = {
     "rules": {
         // suppress errors for missing 'import React' in files
         "react/react-in-jsx-scope": "off",
+        "@typescript-eslint/consistent-type-assertions": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
+        "react/no-children-prop": "off"
     }
 }

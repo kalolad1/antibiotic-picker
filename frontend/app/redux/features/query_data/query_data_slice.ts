@@ -6,10 +6,6 @@ export interface QueryData {
   diagnosis: string
 }
 
-interface InitialState {
-  value: QueryData
-}
-
 export const queryDataSlice: any = createSlice({
   name: 'queryData',
   initialState: {
