@@ -8,7 +8,7 @@ export async function fetchRegimenSearchResults (handpText: string): Promise<any
     method: 'POST',
     body: JSON.stringify(data),
     headers: new Headers({
-      'Accept': 'application/json',
+      Accept: 'application/json',
       'Content-Type': 'application/json; charset=UTF-8'
     })
   }
