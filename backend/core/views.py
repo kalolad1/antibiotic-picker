@@ -48,4 +48,6 @@ def regimen_search(request: HttpRequest) -> HttpResponse:
 
     regimen = get_regimen_from_query_data(query_data)
     response_data = {"regimen": regimen.to_json(), "query_data": query_data.to_json()}
-    return Response(response_data)
+    response = Response(response_data)
+    response["Access-Control-Allow-Origin"] = "*"
+    return response
